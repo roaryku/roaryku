@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rodika!
+### Hi there 👋 I'm Rodika! I am a Front-End Developer with experience in Reactjs, Reduxjs and JaavaScript but my skills are not limited to these. I'm also expert in HTML, CSS, Bootstrap and Figma. Being a curios developer, I'm constantly expanding my skill set and learning something new. Curently I'm learning Node.js and planning to became a full stack web developerin the future.
 <!--
 **roaryku/roaryku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
