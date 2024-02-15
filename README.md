@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/ux/ui%20-%23FF0000.svg?&style=for-the-badge&logo=design&logoColor=white"/>
+<img src="https://img.shields.io/badge/adobe%20-%23FF0000.svg?&style=for-the-badge&logo=adobe&logoColor=white"/>
+<img src="https://img.shields.io/badge/ux/ui%20-%239146FF.svg?&style=for-the-badge&logo=ux/ui&logoColor=white"/>
+
 
 
 
